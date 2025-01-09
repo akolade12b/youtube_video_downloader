@@ -49,9 +49,9 @@ python youtube_downloader.py "https://youtu.be/exampleURL"
 ## Troubleshooting
 If you encounter issues:
 1. Ensure that the `yt-dlp` library is up to date:
-   ```bash
+```bash
 pip install --upgrade yt-dlp
-   ```
+```
 2. Check your internet connection and ensure the YouTube URL is valid.
 
 ## Contact
