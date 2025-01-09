@@ -25,7 +25,7 @@ cd youtube-video-downloader
 
 2. Run the script with the following command:
 ```bash
- python youtube_downloader.py <YouTube URL>
+ python youtube_downloader.py "<YouTube URL>"
 ```
 
 ### Example:
