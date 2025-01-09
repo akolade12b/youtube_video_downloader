@@ -25,7 +25,7 @@ cd youtube-video-downloader
 
 2. Run the script with the following command:
    ```bash
-   python youtube_downloader.py <YouTube URL>
+python youtube_downloader.py <YouTube URL>
    ```
 
 ### Example:
@@ -49,7 +49,7 @@ python youtube_downloader.py "https://youtu.be/exampleURL"
 If you encounter issues:
 1. Ensure that the `yt-dlp` library is up to date:
    ```bash
-   pip install --upgrade yt-dlp
+pip install --upgrade yt-dlp
    ```
 2. Check your internet connection and ensure the YouTube URL is valid.
 
